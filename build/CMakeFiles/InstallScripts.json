@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/doant/OneDrive/M\u00e1y t\u00ednh/robot-draw/build/cmake_install.cmake",
+		"C:/Users/doant/OneDrive/M\u00e1y t\u00ednh/robot-draw/build/external/googletest-main/cmake_install.cmake",
+		"C:/Users/doant/OneDrive/M\u00e1y t\u00ednh/robot-draw/build/external/googletest-main/googlemock/cmake_install.cmake",
+		"C:/Users/doant/OneDrive/M\u00e1y t\u00ednh/robot-draw/build/external/googletest-main/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

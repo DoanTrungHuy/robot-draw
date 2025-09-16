@@ -1,0 +1,26 @@
+# ninja log v7
+94	2475	7797158418986545	CMakeFiles/robot.dir/src/Commands.cpp.obj	949a5a6cdf91e5ed
+61	2544	7797158418683028	CMakeFiles/robot.dir/src/Robot.cpp.obj	6988350b3dc721da
+226	2587	7797158420342342	CMakeFiles/tests.dir/src/Robot.cpp.obj	8fbf02915def15e9
+37	2851	7797158418420091	CMakeFiles/robot.dir/src/main.cpp.obj	1a343b6f4eba884d
+46	2920	7797158418513064	CMakeFiles/robot.dir/src/Grid.cpp.obj	b6469cffd09a80b7
+180	2984	7797158419849225	CMakeFiles/tests.dir/src/Grid.cpp.obj	d08ebbb647a912d
+78	3796	7797158418830496	CMakeFiles/robot.dir/src/CommandFactory.cpp.obj	ff1d92f48dd1ae70
+28	4381	7797158418330072	external/googletest-main/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	372e3132f54871c8
+2577	4742	7797158443818266	CMakeFiles/tests.dir/src/Commands.cpp.obj	d8dabbb996409794
+138	4845	7797158419429799	CMakeFiles/tests.dir/tests/RobotTest.cpp.obj	9006d7d2f49252c9
+3939	5065	7797158458780784	robot.exe	9526e2a8b00dd6d4
+153	5144	7797158419582166	CMakeFiles/tests.dir/tests/CommandFactoryTest.cpp.obj	ceb8cb37c6d1eeb0
+113	5406	7797158419180787	CMakeFiles/tests.dir/tests/GridTest.cpp.obj	971b5e1e9cd6b2c3
+2502	5488	7797158443299887	CMakeFiles/tests.dir/src/CommandFactory.cpp.obj	e91a2b50ef5b3a32
+166	5558	7797158419739151	CMakeFiles/tests.dir/tests/CommandsTest.cpp.obj	75310abd999e757
+2588	6073	7797158443931518	external/googletest-main/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	f62195ba0d633334
+15	7335	7797158418197144	external/googletest-main/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	38031d312a260b4
+5	12786	7797158418094530	external/googletest-main/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	d44ff9644f3f690a
+12788	13025	7797158545923665	lib/libgtest.a	4fe8db51acfbade2
+13034	13207	7797158548389079	lib/libgtest_main.a	9a0d07455f6428cd
+13025	13221	7797158548297230	lib/libgmock.a	53aee0260851c75e
+13221	13395	7797158550261590	lib/libgmock_main.a	a74b6d80d4e0680b
+13208	13724	7797158555137298	tests.exe	d645c88114cbb5d
+13208	13724	7797158555137298	tests[1]_tests.cmake	d645c88114cbb5d
+13208	13724	7797158555137298	C:/Users/doant/OneDrive/Máy tính/robot-draw/build/tests[1]_tests.cmake	d645c88114cbb5d
